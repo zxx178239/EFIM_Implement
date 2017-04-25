@@ -1,0 +1,1 @@
+EFIM.exe -Damount2.txt -Eprice2.txt -Ooutput.txt -N8 -W6 -#5 -U0.3125 -S30 
